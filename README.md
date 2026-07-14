@@ -84,6 +84,3 @@ Through this project, I learned how to:
 
 ---
 
-## Conclusion
-
-This project successfully demonstrates the control of four servo motors.
