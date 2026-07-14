@@ -1,6 +1,6 @@
-#  Arduino 4 Servo Motors Control using Tinkercad
+# Arduino 4 Servo Motors Control using Tinkercad
 
-##  Project Overview
+## Project Overview
 
 This project demonstrates how to control **four servo motors** using an **Arduino Uno** in **Tinkercad Circuits**. The project was created to practice programming multiple servo motors and simulating an Arduino circuit.
 
@@ -8,7 +8,7 @@ The program controls four servo motors simultaneously. First, all servos perform
 
 ---
 
-##  Project Objectives
+## Project Objectives
 
 - Simulate an Arduino circuit using Tinkercad.
 - Control four servo motors simultaneously.
@@ -17,7 +17,7 @@ The program controls four servo motors simultaneously. First, all servos perform
 
 ---
 
-##  Hardware Components
+## Hardware Components
 
 - Arduino Uno
 - 4 × SG90 Servo Motors
@@ -25,14 +25,14 @@ The program controls four servo motors simultaneously. First, all servos perform
 
 ---
 
-##  Software Used
+## Software Used
 
 - Tinkercad Circuits
 - Arduino Servo Library
 
 ---
 
-##  How the Program Works
+## How the Program Works
 
 The program uses the **Servo** library to control four servo motors simultaneously.
 
@@ -45,34 +45,33 @@ The program uses the **Servo** library to control four servo motors simultaneous
 
 ---
 
-##  Project Images
+## Project Images
 
 ### Tinkercad Circuit
 
-```md
-![Tinkercad Circuit](images/connection.png)
-```
+![Tinkercad Circuit](Servo%20Motors%20Control.png)
 
 ---
 
-##  Demonstration Video
+## Demonstration Video
 
 Project demonstration:
 
-*Add your video here.*
+[Click here to watch the project demonstration video](Servo%20Motors%20Control%20Test1.mp4)
 
 ---
 
-##  Project Files
+## Project Files
 
-- `Arduino_4_Servo_Control.ino`
+- `servo_motors_control1 (1).ino`
 - `README.md`
-- Circuit Diagram
-- Demonstration Video
+- `Servo Motors Control.brd`
+- `Servo Motors Control.png`
+- `Servo Motors Control Test1.mp4`
 
 ---
 
-##  Skills and Experience Gained
+## Skills and Experience Gained
 
 Through this project, I learned how to:
 
@@ -87,4 +86,4 @@ Through this project, I learned how to:
 
 ## Conclusion
 
-This project demonstrates the control of four servo motors using an Arduino Uno in Tinkercad. The motors perform a synchronized sweep movement before returning to a fixed position at **90°**. The project improved my understanding of Arduino programming, servo motor control, and circuit simulation using Tinkercad.
+This project successfully demonstrates the control of four servo motors.
