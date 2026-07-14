@@ -34,13 +34,14 @@ The program controls four servo motors simultaneously. First, all servos perform
 
 ##  How the Program Works
 
-The program performs the following steps:
+The program uses the **Servo** library to control four servo motors simultaneously.
 
-1. Four servo motors are attached to Arduino digital pins **3, 5, 6, and 9**.
-2. All servo motors rotate together from **0° to 180°**.
-3. The motors then rotate back from **180° to 0°**.
-4. Finally, all servo motors move to **90°** and remain in that position.
-5. The sequence runs only once because it is written inside the `setup()` function.
+- Four servo objects are created.
+- Each servo is attached to a different Arduino PWM pin (3, 5, 6, and 9).
+- The servos rotate together from **0° to 180°**.
+- They then return from **180° to 0°**.
+- Finally, all servos move to **90°** and remain in that position.
+- Since the code is inside the `setup()` function, the sequence runs only once.
 
 ---
 
