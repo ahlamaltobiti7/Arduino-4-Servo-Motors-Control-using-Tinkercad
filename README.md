@@ -45,7 +45,7 @@ The program uses the **Servo** library to control four servo motors simultaneous
 
 ---
 
-## Project Images
+## Project Media
 
 ### Tinkercad Circuit
 
